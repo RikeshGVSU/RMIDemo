@@ -1,0 +1,3 @@
+grant codeBase "file:/Users/rikeshpuri/Desktop/javafiles/workspace/PartA/src/" {
+    permission java.security.AllPermission;
+};
